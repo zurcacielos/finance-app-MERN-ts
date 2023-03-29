@@ -118,7 +118,6 @@ const Row3 = () => {
             hideFooter={true}
             rows={productData || []}
             columns={productColumns}
-            sx={{":root":}
           />
         </Box>
       </DashboardBox>
